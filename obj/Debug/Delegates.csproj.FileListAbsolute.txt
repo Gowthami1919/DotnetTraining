@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Dell\source\repos\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Dell\source\repos\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Dell\source\repos\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Dell\source\repos\Delegates\Delegates\obj\Debug\Delegates.pdb
